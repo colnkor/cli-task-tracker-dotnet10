@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskTracker": {
+      "commandName": "Project",
+      "commandLineArgs": "mark-in-progress 4d24522b1717d2b472c7fbda90ab5e05"
+    }
+  }
+}
